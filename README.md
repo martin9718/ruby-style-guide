@@ -1,6 +1,6 @@
 # Ruby Style Guide
 
-Much of this was taken from [RuboCop's guide](https://web.archive.org/web/20160410033955/https://github.com/styleguide/ruby) and [Airbnb's guide](https://web.archive.org/web/20160410033955/https://github.com/styleguide/ruby).
+Much of this was taken from [RuboCop's guide](https://rubystyle.guide) and [Airbnb's guide](https://github.com/airbnb/ruby).
 
 ## Source Code Layout
 ### Tabs or Spaces?
@@ -21,7 +21,7 @@ def some_method
 end
 ```
 ### Maximum Line Length
-Limit lines to 80 characters.
+Limit lines to 100 characters.
 
 Keep each line of code to a readable length. Unless you have a reason to, keep lines to fewer than 100 characters.
 
